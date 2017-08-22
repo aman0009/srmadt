@@ -1,0 +1,120 @@
+@charset "utf-8";
+/* CSS Document */
+.a
+{
+	 background-color: #2856b6;
+    border: medium none;
+    border-radius: 0;
+    color: #fff;
+    margin: -8px -9px;
+    padding: 3px 30px;
+    width: 101%;
+	background-position:bottom;
+	background-size:cover;	
+	   
+}
+
+.b
+{
+    border-radius: 50%;
+    color: #fff;
+    cursor: pointer;
+	display: inline-block;
+    font-family: "Material Icons";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: normal;
+    display: inline-block;
+    height: 37px;
+    line-height: 37px;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+    transition: all 0.3s ease 0s;
+    vertical-align: middle;
+    width: 37px;
+   
+}
+.c
+{
+  margin:-88px -13px;
+  padding:5px;
+
+}
+.q
+{
+	height:100%;
+	overflow:auto;
+}
+.d
+{
+	margin: 29px 576px;
+    position: relative;
+	text-decoration:none;
+	height:43px;
+	font-family:serif;
+	font-size:14px;
+	color:#4c5767;
+	
+}
+#mainav li
+{
+	display: inline;
+    position: relative;
+	text-align:center;
+}
+.z
+{
+	 margin: 24px 16px;
+	padding:-90px;
+}
+.logo
+{
+	 margin: 0px;
+    padding: 0px;
+}
+.login
+{
+	margin:5px;
+	padding:5px;
+	color:#D8FF00;
+	text-align:center;
+}
+.ham
+{
+	color:#F9F9F9;
+                        
+}
+.search
+{
+	color: #000000;
+    margin: -30px 9px -120px;
+    padding: 12px;
+}
+.tool
+{
+	margin:5px;
+
+	color:#FFFFFF;
+}
+.tool
+{
+	color:#535353;
+}
+.img
+{
+    display: table;
+	height: 100%;
+	clear:both;
+	margin-bottom:20px;
+ 
+}
+
+.save
+{
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857;
+    margin: -177px 10px 9px -498px;
+    text-align: center;
+}	

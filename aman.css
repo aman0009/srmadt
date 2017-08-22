@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+.box
+{
+	 background: #e3e3e3 none repeat scroll 0 0;
+	   border-bottom: 1px solid #c5cfdb;
+    height: 56px;
+	box-sizing: border-box;
+	margin:-15px;
+	padding: 15px 31px;
+	border-color:#000000;
+	border-right-width:thin;
+	border-left: 1px groove;
+}
+.avatar
+{
+	border-radius: 50%;
+}
+.material-icons
+{
+    font-size: 16px;
+    margin: 0 auto;
+}
+.follow
+{
+	 margin: -26px 222px;
+    padding: 0 32px 57px;
+}
